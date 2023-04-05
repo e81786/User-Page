@@ -2,40 +2,43 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
 ```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require("./lang/" + l);
-  return true;
+var hello = function introduction(status) {
+  document.write("Hello, World!");
+  if (status == "new") {
+    document.write("Nice to meet you, welcome to my page :D");
+  } else {
+    document.write("Good seeing you again, hope you stick around!");
+  }
 };
 ```
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+# 👋 Welcome to my page!
+
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+
+## Nice to meet you!
+
+I'm Eric Dong, a software engineer and student based in **San Diego, California**; though I'm originally from the **San Franciso Bay Area**. I'm currently at Universtiy of California, San Diego studying _Cognitive Science_ with a specialization in _Machine Learning_ and a minor in _Computer Science_.
+
+> I'm always open to learn more and connect with others!
+
+### More about me
+
+I know a variety of `coding languages`, but here are just a few!
+
+- Java
+- C++
+- C
+- Python
+- HTML
+- CSS
+- Javascript
+
+> Check out my [website](https://eric-dong.netlify.app/)!\
+> Check out some of my [work](./work)!
+
+[See latest blog posts →]({{ site.baseurl }}/work)
 
 #### Header 4
 
@@ -115,4 +118,8 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 
 ```
 The final element.
+```
+
+```
+
 ```
