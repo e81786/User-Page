@@ -36,90 +36,25 @@ I know a variety of `coding languages`, but here are just a few!
 - Javascript
 
 > Check out my [website](https://eric-dong.netlify.app/)!\
-> Check out some of my [work](./work)!
 
-[See latest blog posts →]({{ site.baseurl }}/work)
+[Look at some of my work →]({{ site.baseurl }}./work.html)
 
-#### Header 4
+#### Some fun things
 
-- This is an unordered list following a header.
-- This is an unordered list following a header.
-- This is an unordered list following a header.
+These are just some things I like to partcipate in a lot!
 
-##### Header 5
+1.  Asian American Christian Fellowship
+2.  Swim
+3.  Sleep
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-| :----------- | :---------------- | :---- |
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
+##### [Click for a Surprise](#surprise)
 
 ---
 
-### Here is an unordered list:
+### Surprise
 
-- Item foo
-- Item bar
-- Item baz
-- Item zip
+Things to finish
 
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
-
-```
-
-```
+- [x] Lab 1
+- [ ] Solve world hunger
+- [ ] Fight a grizzly bear
