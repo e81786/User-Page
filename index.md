@@ -35,7 +35,7 @@ I know a variety of `coding languages`, but here are just a few!
 - CSS
 - Javascript
 
-> Check out my [website](https://eric-dong.netlify.app/)!\
+> Check out my [website](https://eric-dong.netlify.app/)!
 
 [Look at some of my work →]({{ site.baseurl }}./work.html)
 
