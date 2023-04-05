@@ -24,6 +24,8 @@ email: e1dong@ucsd.edu
 keywords: eric dong
 description: >- # this means to ignore newlines until "baseurl:"
   Eric Dong's new user site, courtesy of CSE 110 :)
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 google_scholar: https://scholar.google.com/
 cv_link: files/Curriculum_Vitae.pdf
 github_link: https://github.com/
