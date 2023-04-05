@@ -19,7 +19,7 @@ var hello = function introduction(status) {
 
 ## Nice to meet you!
 
-I'm Eric Dong, a software engineer and student based in **San Diego, California**; though I'm originally from the **San Franciso Bay Area**. I'm currently at Universtiy of California, San Diego studying _Cognitive Science_ with a specialization in _Machine Learning_ and a minor in _Computer Science_.
+I'm Eric, a software engineer and student based in **San Diego, California**; though I'm originally from the **San Franciso Bay Area**. I'm currently at Universtiy of California, San Diego studying _Cognitive Science_ with a specialization in _Machine Learning_ and a minor in _Computer Science_.
 
 > I'm always open to learn more and connect with others!
 
@@ -37,7 +37,7 @@ I know a variety of `coding languages`, but here are just a few!
 
 > Check out my [website](https://eric-dong.netlify.app/)!
 
-[Look at some of my work →]({{ site.baseurl }}./work.html)
+[Look at some of my work →]({{ site.baseurl }}/work.html)
 
 #### Some fun things
 
