@@ -15,7 +15,7 @@ var hello = function introduction(status) {
 
 # 👋 Welcome to my page!
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![picofme](/media/Standard.jpg)
 
 ## Nice to meet you!
 
@@ -37,7 +37,7 @@ I know a variety of `coding languages`, but here are just a few!
 
 > Check out my [website](https://eric-dong.netlify.app/)!
 
-[Look at some of my work →]({{ site.baseurl }}/work.html)
+[Look at some of my work →]({{ site.baseurl }}work)
 
 #### Some fun things
 
@@ -53,7 +53,9 @@ These are just some things I like to partcipate in a lot!
 
 ### Surprise
 
-Things to finish
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+
+#### Things to finish
 
 - [x] Lab 1
 - [ ] Solve world hunger
