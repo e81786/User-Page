@@ -37,7 +37,7 @@ I know a variety of `coding languages`, but here are just a few!
 
 > Check out my [website](https://eric-dong.netlify.app/)!
 
-[Look at some of my work →](/work)
+[Look at some of my work →](./work.md)
 
 #### Some fun things
 
